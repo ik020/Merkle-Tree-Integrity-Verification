@@ -22,9 +22,8 @@ This project implements a Merkle Tree-based cryptographic verification system fo
 - `include/` - Header files for modules
 - `src/` - Source code implementations
 - `data/` - Sample datasets
-- `docs/` - Figures, report, and documentation
-- `tests/` - Unit tests and performance benchmarks
-- `scripts/` - Preprocessing and utility scripts
+- `images/` - Figures and illustrations
+- `report/` - Final report and documentation
 
 ## Installation
 Clone the repository:
